@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b731175-1b2a-4887-b549-f82a0556b87b" name="Changes" comment="part 7, send email support added">
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4b731175-1b2a-4887-b549-f82a0556b87b" name="Changes" comment="part 7, send email support added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,41 +44,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ProdUberApplication.executor": "Run",
-    "Application.UberAppApplication.executor": "Run",
-    "JUnit.AuthControllerTest.executor": "Run",
-    "JUnit.AuthControllerTest.test.executor": "Run",
-    "JUnit.AuthControllerTest.testSignUp_success.executor": "Run",
-    "JUnit.AuthServiceImplTest.testLogin_whenSuccess.executor": "Run",
-    "JUnit.AuthServiceImplTest.testSignup_whenSuccess.executor": "Run",
-    "JUnit.UberAppApplicationTests.contextLoads.executor": "Run",
-    "JUnit.UberAppApplicationTests.executor": "Run",
-    "JUnit.UberAppApplicationTests.sendEmailMultiple.executor": "Run",
-    "Maven.uberApp [clean].executor": "Run",
-    "Maven.uberApp [compile].executor": "Run",
-    "Maven.uberApp [install].executor": "Run",
-    "Maven.uberApp [package].executor": "Run",
-    "Maven.uberApp [validate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kanub/Desktop/Development/MicroServices/e_Commerce_57fbcb1148",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ProdUberApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UberAppApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AuthControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AuthControllerTest.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AuthControllerTest.testSignUp_success.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AuthServiceImplTest.testLogin_whenSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AuthServiceImplTest.testSignup_whenSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UberAppApplicationTests.contextLoads.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UberAppApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UberAppApplicationTests.sendEmailMultiple.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.uberApp [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.uberApp [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.uberApp [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.uberApp [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.uberApp [validate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kanub/Desktop/Development/MicroServices/e_Commerce_57fbcb1148&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -248,6 +244,7 @@
       <workItem from="1762688593023" duration="2374000" />
       <workItem from="1762921614605" duration="310000" />
       <workItem from="1763640690245" duration="26000" />
+      <workItem from="1767637547645" duration="315000" />
     </task>
     <servers />
   </component>
@@ -290,5 +287,13 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
