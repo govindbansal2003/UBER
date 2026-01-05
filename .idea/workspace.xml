@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b731175-1b2a-4887-b549-f82a0556b87b" name="Changes" comment="part 7, send email support added" />
+    <list default="true" id="4b731175-1b2a-4887-b549-f82a0556b87b" name="Changes" comment="part 7, send email support added">
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +70,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kanub/Desktop/uberApp",
+    "last_opened_file_path": "C:/Users/kanub/Desktop/Development/MicroServices/e_Commerce_57fbcb1148",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -190,6 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UberAppApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="uberApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.govindbansal.project.uber.uberApp.UberAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UberAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="uberApp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.codingshuttle.project.uber.uberApp.UberAppApplication" />
@@ -204,6 +215,7 @@
       <item itemvalue="JUnit.AuthControllerTest.test" />
       <item itemvalue="JUnit.AuthControllerTest.testSignUp_success" />
       <item itemvalue="JUnit.AuthServiceImplTest.testLogin_whenSuccess" />
+      <item itemvalue="Spring Boot.UberAppApplication (1)" />
       <item itemvalue="Spring Boot.UberAppApplication" />
     </list>
     <recent_temporary>
@@ -234,6 +246,8 @@
       <updated>1720885206600</updated>
       <workItem from="1762600391567" duration="2979000" />
       <workItem from="1762688593023" duration="2374000" />
+      <workItem from="1762921614605" duration="310000" />
+      <workItem from="1763640690245" duration="26000" />
     </task>
     <servers />
   </component>
